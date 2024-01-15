@@ -27,7 +27,7 @@ Além disso, a equipe da biblioteca, composta por funcionários, é registrada e
 funcionário exclusivo, nome do funcionário e seu cargo. 
 
 # MODELO CONCEITUAL
-    
+![image](https://github.com/Matheus-Pener/Banco-de-Dados-Relacional/blob/main/bd.png)
 
 
 
